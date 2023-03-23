@@ -8,7 +8,7 @@ import numpy as np
 #import plotly.figure_factory as ff
 import openai
 openai.organization = "org-S5gH3WeHfvGZpVvdFmF1ErTu"
-openai.api_key      = "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"
+openai.api_key      = "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"
 
 def Ask_ChatGPT(message):
     
