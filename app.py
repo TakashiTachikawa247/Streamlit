@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn
-import plotly.express as px
-import plotly.graph_objects as go
-import plotly.figure_factory as ff
+#import matplotlib.pyplot as plt
+#import seaborn
+#import plotly.express as px
+#import plotly.graph_objects as go
+#import plotly.figure_factory as ff
 import openai
 openai.organization = "org-S5gH3WeHfvGZpVvdFmF1ErTu"
 openai.api_key      = "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"
